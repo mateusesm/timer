@@ -2,7 +2,7 @@
 
 ### Algumas imagens
 
-![Timer desligado](./images/timer-off.png)
+[![Timer desligado](./images/timer-off.png)]
 
 ![Timer ligado](./images/timer-off.png)
 
