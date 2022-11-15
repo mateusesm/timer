@@ -1,9 +1,5 @@
-### Timer simples desenvolvido em HTML, CSS e JavaScript
+### Simple Timer made only with HTML, CSS and JavaScript
 
-### Algumas imagens
+Download this repository and open file index.html in your browser from your preference.
 
-![Timer desligado](./images/timer-off.png)
-
-![Timer ligado](./images/timer-on.png)
-
-![Timer pausado](./images/timer-paused.png)
+[Click here for to see the timer](https://mateusesm.github.io/timer/)
